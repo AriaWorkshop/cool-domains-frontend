@@ -240,7 +240,7 @@ const App = () => {
   // Create a function to render if wallet is not connected yet
   const renderNotConnectedContainer = () => (
     <div className="connect-wallet-container">
-      <img className="image-giphy" src="https://media0.giphy.com/media/wHdzroKqQuHwtVfQgT/giphy.gif" alt="Waspy Gif" />
+      <img className="image-giphy" src="https://media4.giphy.com/media/l0Ex7SHlSIDcmYbBu/giphy.gif" alt="Waspy Gif" />
       <button onClick={connectWallet} className="cta-button connect-wallet-button">
         Connect Wallet
       </button>
